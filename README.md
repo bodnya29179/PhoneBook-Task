@@ -18,8 +18,6 @@ git clone https://github.com/bodnya29179/PhoneBook-Task.git
 ```
 Also you can download the repository as a `.zip` file.
 
-Paste the `phone_numbers` folder in the following directory: `..\xampp\mysql\data`. In the end you will have the path `..\xampp\mysql\data\phone_numbers`. Three files should to be in the `phone_numbers` folder.
-
 Install npm packages (dependencies):
 
 ```bash
@@ -43,6 +41,7 @@ npm install angular-font-awesome --save
 Shut it down manually with `Ctrl-C`.
 
 Install XAMPP-Control using this link https://www.apachefriends.org/ru/download.html.
+Paste the `phone_numbers` folder in the following directory: `..\xampp\mysql\data`. In the end you will have the path `..\xampp\mysql\data\phone_numbers`. Three files should to be in the `phone_numbers` folder.
 
 ## Run
 
