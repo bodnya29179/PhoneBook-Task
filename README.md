@@ -54,8 +54,8 @@ Navigete to `front-end_angular\phone-numbers` folder using `cd front-end_angular
 
 ## ScreenShots
 
-<img src="https://i.ibb.co/zfD3NV9/pic1.png" alt="pic1" width="1163" height="506" data-load="full" style="">
+<img src="https://i.ibb.co/zfD3NV9/pic1.png" alt="pic1" width="1163" height="506">
 
-![alt text](https://ibb.co/KX2cszJ)
+<img src="https://i.ibb.co/bPsjvRk/pic2.png" alt="pic2" width="586" height="352">
 
-![alt text](https://ibb.co/rmKbKGd)
+<img src="https://i.ibb.co/G0fsfvH/pic3.png" alt="pic3" width="589" height="358">
