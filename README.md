@@ -11,14 +11,14 @@ The "PhoneBook" application allows the user to see and edit contact information.
 
 ## Common setup
 
-Clone the repository:
+### Clone the repository ###
 
 ```bash
 git clone https://github.com/bodnya29179/PhoneBook-Task.git
 ```
 Also you can download the repository as a `.zip` file.
 
-Install npm packages (dependencies):
+### Install npm packages (dependencies) ###
 
 ```bash
 cd back-end_nodejs
@@ -40,6 +40,7 @@ npm install angular-font-awesome --save
 
 Shut it down manually with `Ctrl-C`.
 
+### Install XAMPP-Control ###
 Install XAMPP-Control using this link https://www.apachefriends.org/ru/download.html.
 Paste the `phone_numbers` folder in the following directory: `..\xampp\mysql\data`. In the end you will have the path `..\xampp\mysql\data\phone_numbers`. Three files should to be in the `phone_numbers` folder.
 
