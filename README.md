@@ -51,3 +51,11 @@ Run the program `XAMPP Control Panel`. Start `Apache` and `MySQL` modules.
 Navigate to `back-end_nodejs` folder using `cd back-end_nodejs` in the terminal. Use `nodemon server.js` for a run back-end part.
 
 Navigete to `front-end_angular\phone-numbers` folder using `cd front-end_angular\phone-numbers` in the terminal. Use `ng serve` for a run front-end part. Navigate to `http://localhost:4200/` in your browser. You can also use the `ng serve -o` in the terminal to automatically open a web page.
+
+## ScreenShots
+
+![alt text](https://ibb.co/0Jv0Qy4)
+
+![alt text](https://ibb.co/KX2cszJ)
+
+![alt text](https://ibb.co/rmKbKGd)
