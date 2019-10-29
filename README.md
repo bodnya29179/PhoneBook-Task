@@ -60,10 +60,10 @@ Note: All mobile numbers are invented.
 
 <img src="https://i.ibb.co/zfD3NV9/pic1.png" alt="Table">
 
-### Contact information adding form
+### Contact information editing form
 
 <img src="https://i.ibb.co/bPsjvRk/pic2.png" alt="Update form">
 
-### Contact information editing form
+### Contact information adding form
 
 <img src="https://i.ibb.co/G0fsfvH/pic3.png" alt="Create form">
