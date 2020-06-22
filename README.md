@@ -23,19 +23,11 @@ Also you can download the repository as a `.zip` file.
 ```bash
 cd back-end_nodejs
 npm install
-npm install express --save
-npm install cors --save
-npm install mysql --save
-npm install nodemon --save
 ```
 
 ```bash
 cd front-end_angular/phone-numbers
 npm install
-npm install bootstrap --save
-npm install jquery --save
-npm install font-awesome --save
-npm install angular-font-awesome --save
 ```
 
 Shut it down manually with `Ctrl-C`.
